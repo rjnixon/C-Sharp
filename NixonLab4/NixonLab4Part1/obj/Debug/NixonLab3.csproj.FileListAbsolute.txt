@@ -1,0 +1,7 @@
+C:\Users\rjnix\source\repos\NixonLab3\bin\Debug\NixonLab3.exe.config
+C:\Users\rjnix\source\repos\NixonLab3\bin\Debug\NixonLab3.exe
+C:\Users\rjnix\source\repos\NixonLab3\bin\Debug\NixonLab3.pdb
+C:\Users\rjnix\source\repos\NixonLab3\obj\Debug\NixonLab3.csprojAssemblyReference.cache
+C:\Users\rjnix\source\repos\NixonLab3\obj\Debug\NixonLab3.csproj.CoreCompileInputs.cache
+C:\Users\rjnix\source\repos\NixonLab3\obj\Debug\NixonLab3.exe
+C:\Users\rjnix\source\repos\NixonLab3\obj\Debug\NixonLab3.pdb
